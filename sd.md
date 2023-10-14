@@ -14,5 +14,6 @@ What is system design? [link](https://www.youtube.com/watchv=SqcXvc3ZmRU 'sd')
 - OOD to model the programs
 
 ** The main motive of the LLD is use to convert the class diagram to actual code usign oops **
-
+ 
+ We should also keep in mind that our code is  testable ,maintanable refactored ready which is production ready and it is ready for changes also or ready extension
 
