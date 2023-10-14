@@ -38,7 +38,9 @@ For example below the test case
 This are the divided classes based on the given test cases=
 ![image](https://github.com/adam-p/markdown-here/assets/111244831/2a32a6ee-b1ec-4496-af82-f6f53e9826b6)
 
+
 Like their are two types of relations betweem classes 
+
 1.Composition
 2.Aggregation
 -These both come under *has a relation* type
@@ -47,3 +49,13 @@ Like their are two types of relations betweem classes
     Aggregation- It is vice-versa to compostion
 
 - Another is the *is a relation*    
+
+*Hiding of the data is called **Abstraction** *
+*Implementaion of Abstraction id called **encapsulation** *
+
+### Solid Principles
+
+#### (s) Single Responsibility Principle (SRP)
+- If any class had only 1 actor to request the change in the class obeys SRP . If it has multiple actors it doesn't obey SRP
+
+- To solve this issue we have to break our class into multiple classes
