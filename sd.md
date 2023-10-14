@@ -17,7 +17,7 @@ What is system design? [link](https://www.youtube.com/watchv=SqcXvc3ZmRU 'sd')
  
  We should also keep in mind that our code is  testable ,maintanable refactored ready which is production ready and it is ready for changes also or ready extension
 
-#### Basics of objects and classes
+### Basics of objects and classes
 
 What are objects and classes?
 -Object  comprises of two things *Information* which we call data or attributes *behaviour* it is the property of the object
@@ -33,6 +33,17 @@ what is nvt technique?
 
 -(Verb) in the problem statement you can see the verb these verbs make up the behaviour of the classes they give you the idea how many classes should be used and relation between two classes.
 
-For example see the below image
-
+For example below the test case 
+![image](https://github.com/adam-p/markdown-here/assets/111244831/9f75f7a1-0bfb-4fc2-86ed-5799c692c34b)
+This are the divided classes based on the given test cases=
 ![image](https://github.com/adam-p/markdown-here/assets/111244831/2a32a6ee-b1ec-4496-af82-f6f53e9826b6)
+
+Like their are two types of relations betweem classes 
+1.Composition
+2.Aggregation
+-These both come under *has a relation* type
+    Compostion:- If a class is completely depended on another class like we can say their is no use of a classA if classB doesn't exist this type of relationship is called compositon
+
+    Aggregation- It is vice-versa to compostion
+
+- Another is the *is a relation*    
